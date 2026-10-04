@@ -1,0 +1,7 @@
+git hub is a remote repository
+git is used to interact with local repository and remote
+git init
+git add .
+git commit -m "sdfdsfs"
+git branch -M main
+git push origin main
